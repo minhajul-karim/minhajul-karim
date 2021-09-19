@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minhajul Karim</h1>
 <h3 align="center">An aspiring Full-Stack Developer with expertise in web-based applications.</h3>
 
--   🌱 I’m currently learning **Full Stack app development with MERN stack.**
+-   🌱 I’m currently developing **Full Stack applications with MERN stack.**
 
 -   👨‍💻 All of my projects are available at [https://minhajul-karim.github.io/](https://minhajul-karim.github.io/)
 
