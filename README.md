@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minhajul Karim</h1>
-<h3 align="center">An aspiring Full-Stack Developer with expertise in web-based applications.</h3>
+<h3 align="center">An aspiring Full-Stack Developer with 3+ years of SOLID PROFESSIONAL Front-end experience</h3>
 
--   🌱 I’m currently developing **Full Stack applications with MERN stack.**
+-   🌱 I’m currently working as a **Software Engineer(Front End)** in **Zaag Systems Ltd.**
 
 -   👨‍💻 All of my projects are available at [https://minhajul-karim.github.io/](https://minhajul-karim.github.io/)
 
