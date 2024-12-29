@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Minhajul Karim</h1>
-<h3 align="center">An aspiring Full-Stack Developer with 3+ years of SOLID PROFESSIONAL Front-end experience</h3>
+<p align="center">
+  A front-end-focused full-stack Software Developer with 3+ years of experience building interactive, scalable solutions using <b>React JS, Next JS, JavaScript, TypeScript, Node JS, PostgreSQL</b>, & many more. Delivered features like a CO2 visualization tool and a dynamic quiz admin panel. Skilled in third-party integrations, testing, and agile development.
+</p>
 
 -   🌱 I’m currently working as a **Software Engineer(Front End)** in **Zaag Systems Ltd.**
 
--   👨‍💻 All of my projects are available at [https://minhajul-karim.github.io/](https://minhajul-karim.github.io/)
+-   👨‍💻 All of my side projects are available at [https://minhajul-karim.github.io/](https://minhajul-karim.github.io/)
 
--   📝 I regularly write articles on [https://minhajul.hashnode.dev/](https://minhajul.hashnode.dev/)
+-   📝 I sometimes write articles on [https://minhajul.hashnode.dev/](https://minhajul.hashnode.dev/)
 
--   💬 Ask me about **React, Express, JavaScript**
+-   💬 Ask me about **React & JavaScript**
 
 -   📫 How to reach me **minhajul.kaarim@gmail.com**
 
