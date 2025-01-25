@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minhajul Karim</h1>
 <p align="center">
-  A front-end-focused full-stack Software Developer with 3+ years of experience building interactive, scalable solutions using <b>React JS, Next JS, JavaScript, TypeScript, Node JS, PostgreSQL</b>, & many more. Delivered features like a CO2 visualization tool and a dynamic quiz admin panel. Skilled in third-party integrations, testing, and agile development.
+  A front-end-focused full-stack Software Developer with 3+ years of professional experience building interactive, scalable solutions using <b>React JS, Next JS, JavaScript, TypeScript, Node JS, PostgreSQL</b>, & many more. Delivered features like a CO2 visualization tool and a dynamic quiz admin panel. Skilled in third-party integrations, testing, and agile development.
 </p>
 
--   🌱 I’m currently working as a **Software Engineer(Front End)** in **Zaag Systems Ltd.**
+-   🌱 I’ve worked as a **Software Engineer(Front End)** in **Zaag Systems Ltd.** from **2021** to **2025**.
 
 -   👨‍💻 All of my side projects are available at [https://minhajul-karim.github.io/](https://minhajul-karim.github.io/)
 
